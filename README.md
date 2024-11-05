@@ -1,13 +1,22 @@
-<p><img align="left" src="images/android.png" alt="ARayane24" /></p>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
+  <img align="left" src="images/android.png" alt="ARayane24" style="margin-right: 15px;"/>
+</div>
 
 ### Yep, It's me 👋
->  I'm ATOUI Rayane a native Android, desktop and Web Developer
->  
-> skills: Java,Kotlin,C#,C/C++,JS ...
+> I'm ATOUI Rayane, a native Android, Desktop, and Web Developer.
 >
 > location: "Algiers"
 >
-> Contact : r.atoui2324@gmail.com
+> Contact: r.atoui2324@gmail.com
+
+#### Skills:
+- Java
+- Kotlin
+- C#
+- C/C++
+- JavaScript (JS)
+- ... and more!
+
 
 
 
