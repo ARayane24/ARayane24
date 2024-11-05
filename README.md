@@ -1,24 +1,21 @@
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <img align="left" src="images/android.png" alt="ARayane24" style="margin-right: 15px;"/>
+<div align="left" style="width:100% ;display: flex; flex-direction: column; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <div align="center"  style="overflow-x: auto; white-space: nowrap;">
+    <img src="images/android.png" alt="ARayane24" style="width:70%;"/>
+  </div>
+  <div>
+    <h1>Yep, It's me 👋</h1>
+    <p><strong>A native Android, Desktop, and Web Developer.</strong></p>
+    <h4>Skills:</h4>
+    <ul>
+      <li>Java</li>
+      <li>Kotlin</li>
+      <li>C#</li>
+      <li>C/C++</li>
+      <li>JavaScript (JS)</li>
+      <li>... and more!</li>
+    </ul>
+   </div>
 </div>
-
-### Yep, It's me 👋
-> I'm ATOUI Rayane, a native Android, Desktop, and Web Developer.
->
-> location: "Algiers"
->
-> Contact: r.atoui2324@gmail.com
-
-#### Skills:
-- Java
-- Kotlin
-- C#
-- C/C++
-- JavaScript (JS)
-- ... and more!
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ARayane24&theme=tokyonight&hide_border=false)<br/>
