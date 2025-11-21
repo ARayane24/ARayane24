@@ -5,14 +5,25 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=80&pause=1000&color=69F79C&center=true&width=1000&height=150&lines=Native+Android+Dev;Native+Desktop+Dev;Web+Dev" alt="Typing SVG" /></a>
   </div>
     <h4>Skills:</h4>
-    <ul>
-      <li>Java</li>
-      <li>Kotlin</li>
-      <li>C#</li>
-      <li>C/C++</li>
-      <li>JavaScript (JS)</li>
-      <li>... and more!</li>
-    </ul>
+    <!-- Skills Section -->
+    <p align="left">
+      <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+      <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+      <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+      <img align="left" alt="OCaml" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
+      <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <br />
+    </p>
+
    </div>
 </div>
 
@@ -26,13 +37,4 @@
 </div>
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARayane24&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Streak Stats" />
-</div>
-
-<p align="center">
-  <img style="width: 100%" src="[https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=4](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Native%20Android,%20Desktop,%20and%20Web%20Developer&textBg=false&fontSize=35&animation=twinkling&section=footer&reversal=true)"/>
-</p>
 
